@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "gm": "^1.23.1",
-    "sharp": "^0.27.0",
+    "sharp": "^0.30.5",
     "vue": "^2.7.2",
     "vuetify": "v3.0.4"
   }
